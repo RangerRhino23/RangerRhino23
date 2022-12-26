@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RangerRhino23
 - 👀 I’m interested in Computer Programming and Mathmatics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Any Python related projects
+- 🌱 I’m currently learning Python and a little Javascript
+- 💞️ I’m looking to collaborate on any Python related projects
 - 📫 How to reach me Discord: RangerRhino#4484
 
 <!---
