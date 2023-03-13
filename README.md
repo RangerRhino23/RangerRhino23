@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RangerRhino23
 - 👀 I’m interested in Computer Programming and Mathmatics
-- 🌱 I’m currently learning Python and a little Javascript
+- 🌱 I’m currently learning Python and a little Javascript as well as HTML
 - 💞️ I’m looking to collaborate on any Python related projects
 - 📫 How to reach me Discord: RangerRhino#4484
 
