@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any Python related projects
 - 📫 How to reach me Discord: RangerRhino#4484
 
-<!---
-RangerRhino23/RangerRhino23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📃 Some current projects I'm working on:
+  *  Infinite Horizons: https://github.com/RangerRhino23/Infinite-Horizons
+  *  Pyweek 35: March 26th - April 2nd
