@@ -7,3 +7,4 @@
 - 📃 Some current projects I'm working on:
   *  Infinite Horizons: https://github.com/RangerRhino23/Infinite-Horizons
   *  Pyweek 35: March 26th - April 2nd: https://github.com/RangerRhino23/Pyweek35
+  *  Platformer Taptapir: https://github.com/RangerRhino23/Platformer-Taptapir
