@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Programming and Mathmatics
 - 🌱 I’m currently learning Python and a little Javascript as well as HTML
 - 💞️ I’m looking to collaborate on any Python related projects
-- 📫 How to reach me Discord: rangerrhino
+- 📫 How to reach me Discord: rangerrhino Email: RangerRhino23@outlook.com
 
 - 📃 Some current projects I'm working on:
   *  Infinite Horizons: https://github.com/RangerRhino23/Infinite-Horizons
